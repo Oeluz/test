@@ -1,0 +1,5 @@
+SetEnv DB zc2985
+SetEnv DB_SERVER localhost
+SetEnv DB_PASSWORD Leibnizian4-sunnite
+SetEnv DB_USER zc2985
+# put in main .htaccess file if you want to effect whole site
